@@ -1,0 +1,10 @@
+1 Banadol  15
+2 Zantac   50
+3 Cataflam 40
+4 KinaComp 10
+5 Septeren 10
+6 Co-targ  100
+7 Move     80
+8 Adol     5
+9 Utrivin  30
+10 Ogmanten 70
